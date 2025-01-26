@@ -1,0 +1,8 @@
+{
+    "csvfilepath": "demo_data.csv",
+    "mqttbroker": "broker.hivemq.com",
+    "port": 1883,
+    "topic": "asim/farm1/demo",
+    "delay": 3
+  }
+  
